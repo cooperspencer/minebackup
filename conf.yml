@@ -1,0 +1,4 @@
+minecraft: /path/to/minecraftserver
+backuppath: /path/to/backup/directory
+parentdirectory: hash-of-directory
+secretfile: client_secrets.json
